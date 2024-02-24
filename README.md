@@ -51,9 +51,12 @@ JavaScript was practiced by creating small projects 😊
 ![11  Random Color Generator](https://github.com/SF-SHARIF/Basic-JavaScript-Project/assets/144459710/cceb1ecb-95db-4741-9221-f57017b7842d)
 
 
-
-12. Accordion Project
+13. Accordion Project
 ![image](https://github.com/SF-SHARIF/Basic-JavaScript-Project/assets/144459710/64559aa1-48b8-454c-8d78-b0ec2081eaea)
 
+
+
+14. Test Rotate Meter
+![image](https://github.com/SF-SHARIF/Basic-JavaScript-Project/assets/144459710/7a6dc6aa-9c2d-4c56-8b5c-cf518722a9da)
 
 
