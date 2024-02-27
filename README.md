@@ -60,3 +60,6 @@ JavaScript was practiced by creating small projects 😊
 ![image](https://github.com/SF-SHARIF/Basic-JavaScript-Project/assets/144459710/7a6dc6aa-9c2d-4c56-8b5c-cf518722a9da)
 
 
+15. copy Element text in javascript ( pc---mobile )
+![image](https://github.com/SF-SHARIF/Basic-JavaScript-Project/assets/144459710/93453ee1-40b7-4473-87e7-fcf61d0cdeb2)
+
